@@ -95,3 +95,7 @@ Replace `{{SITE}}` with your live Netlify URL once deployed.
 ## License
 
 Private commercial use for 3XTRINITY / Theodor Künnapuu.
+
+---
+
+**Live workflow:** branch `apex/cash-week1` → PR → `main`. Deploy `main` on Netlify.
